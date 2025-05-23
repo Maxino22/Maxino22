@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maxwell Muhanda
 - 👀 I’m interested in JavaScript(vue) & python
-- 🌱 I’m currently learning Elixir and Phoenix
+- 🌱 I’m currently learning Hyperledger Fabric & Indy
 - 💞️ I’m looking to collaborate on large projects
 - 📫 How to reach me maxino.dev
 
